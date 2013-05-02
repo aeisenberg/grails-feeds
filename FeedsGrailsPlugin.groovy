@@ -79,7 +79,7 @@ import feedsplugin.FeedBuilder
  * @author Marc Palmer (marc@anyware.co.uk)
  */
 class FeedsGrailsPlugin {
-	def version = "1.5"
+	def version = "1.6-SNAPSHOT"
 	def grailsVersion = "1.1 > *"
 	def dependsOn = [controllers:'1.1 > *']
 	
